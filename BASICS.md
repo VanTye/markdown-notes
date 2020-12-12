@@ -13,3 +13,4 @@
 
 # Links
 [README.md](https://github.com/VanTye/markdown-notes/blob/main/README.md)
+### Can make link within headings [README.md](https://github.com/VanTye/markdown-notes/blob/main/README.md)
