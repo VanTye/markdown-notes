@@ -12,7 +12,7 @@
 ###### Can't make a header **bold** but can _italicize_ certain words
 
 # Links
-[README.md](https://github.com/VanTye/markdown-notes/blob/main/README.md)
+[README.md](<https://github.com/VanTye/markdown-notes/blob/main/README.md>)
 ### Can make link within headings [README.md](https://github.com/VanTye/markdown-notes/blob/main/README.md)
 
 This is a reference link [README.md][readme-link]
