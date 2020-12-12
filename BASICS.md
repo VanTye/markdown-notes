@@ -9,3 +9,4 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+###### Can't make a header **bold** but can _italicize_ certain words
