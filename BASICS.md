@@ -13,8 +13,8 @@
 
 # Links
 [README.md](<https://github.com/VanTye/markdown-notes/blob/main/README.md>)
-### Can make link within headings [README.md](https://github.com/VanTye/markdown-notes/blob/main/README.md)
+### Can make link within headings [README.md](<https://github.com/VanTye/markdown-notes/blob/main/README.md>)
 
 This is a reference link [README.md][readme-link]
 
-[readme-link]: https://github.com/VanTye/markdown-notes/blob/main/README.md
+[readme-link]: <https://github.com/VanTye/markdown-notes/blob/main/README.md>
